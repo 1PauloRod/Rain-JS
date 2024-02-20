@@ -1,0 +1,15 @@
+body{
+    background: black;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#cnvs{
+    position: absolute;
+    border: 1px solid green;
+    left: 50%;
+    top: 50%;
+    width: 75%;
+    transform: translate(-50%, -50%);
+}
